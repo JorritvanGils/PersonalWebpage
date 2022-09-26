@@ -1,0 +1,4 @@
+User-agent: Googlebot-Image
+
+Disallow: /images/
+Disallow: /theexpatexperience/images/
