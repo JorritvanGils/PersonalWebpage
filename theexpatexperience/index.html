@@ -8,14 +8,14 @@
 
 <head>
 	<!-- Google tag (gtag.js) -->
-			<script async src="https://www.googletagmanager.com/gtag/js?id=G-0CSGEHVBCT"></script>
-			<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
-	
-			gtag('config', 'G-0CSGEHVBCT');
-			</script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-0CSGEHVBCT"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'G-0CSGEHVBCT');
+	</script>
 
 	<title>Overzicht</title>
 	<meta charset="utf-8" />
@@ -34,21 +34,9 @@
 	<!-- Wrapper -->
 	<div id="wrapper" class="fade-in">
 
-		<div class="language" role="radiogroup" aria-labelledby="language-switcher1">
-			<p class="hidden" id="language-switcher1">Choose a language for this website</p>
-			<div class="language__container--left language__container--fr">
-			  <input class="language__control" type="radio" id="language1-1" name="language-switch1">
-			  <label class="language__label" for="language1-1">
-				FR<span class="hidden"> Français</span>
-			  </label>
-			</div>
-			<div class="language__container--right language__container--en">
-			  <input class="language__control" type="radio" id="language1-2" name="language-switch1">
-			  <label class="language__label" for="language1-2">
-				EN<span class="hidden"> English</span>
-			  </label>
-			</div>
-		  </div>
+		<div id="languageSwitch">
+			<a href="en" class="button primary">Switch to English</a>
+		</div>
 
 		<!-- Intro -->
 		<div id="intro">
@@ -72,9 +60,12 @@
 				<li><a href="01vilente.html">01 Een laatste groet aan Vilente</a></li>
 			</ul>
 			<ul class="icons">
-				<li><a href="https://www.instagram.com/jorritvangils/?hl=en" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-				<li><a href="https://twitter.com/jorritvangils" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-				<li><a href="https://www.linkedin.com/in/jorritvangils/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+				<li><a href="https://www.instagram.com/jorritvangils/?hl=en" class="icon brands fa-instagram"><span
+							class="label">Instagram</span></a></li>
+				<li><a href="https://twitter.com/jorritvangils" class="icon brands fa-twitter"><span
+							class="label">Twitter</span></a></li>
+				<li><a href="https://www.linkedin.com/in/jorritvangils/" class="icon brands fa-linkedin"><span
+							class="label">LinkedIn</span></a></li>
 			</ul>
 		</nav>
 
@@ -93,7 +84,7 @@
 						waar ik drie jaar heb mogen werken.
 					</p>
 				</header>
-				<a href="01vilente.html" class="image main"><img src="images/01/groep.jpg"  /></a>
+				<a href="01vilente.html" class="image main"><img src="images/01/groep.jpg" /></a>
 				<ul class="actions special">
 					<li><a href="01vilente.html" class="button large">Full Story</a></li>
 				</ul>
@@ -101,7 +92,7 @@
 
 			<!-- Posts -->
 
-			
+
 			<section class="posts">
 				<!--
 				<article>
@@ -154,7 +145,7 @@
 		<!-- Footer -->
 		<footer id="footer">
 			<section>
-				<form method="post" action=”mailto:contact@yourdomain.com”>
+				<form method="post" action="https://formspree.io/f/xwkzoyvl">
 					<div class="fields">
 						<div class="field">
 							<label for="name">Name</label>
@@ -206,10 +197,7 @@
 
 		<!-- Copyright -->
 		<div id="copyright">
-			<ul>
-				<li>&copy; Untitled</li>
-				<li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
-			</ul>
+
 		</div>
 
 	</div>
