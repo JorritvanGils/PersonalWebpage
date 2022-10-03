@@ -4873,3 +4873,10 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 #languageSwitch a {
 	background-color: white;
 }
+
+#languageSwitch img {
+	width: 20px;
+	height: 20px;
+	padding-top: 10px;
+	margin-right: 5px;
+}
