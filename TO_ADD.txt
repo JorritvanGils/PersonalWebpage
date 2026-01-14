@@ -9,3 +9,10 @@ Not mentioned here on index.html. Put this in presentation:
 
 https://github.com/JorritvanGils/Remote-GPU-control
 participation. 
+
+pdflatex CV_JvG.tex
+
+mogrify -version
+cd theexpatexperience/images
+find . -type f -iregex '.*\.\(jpg\|jpeg\|png\)' -exec mogrify -resize "1920x1920>" -quality 80 -strip {} +
+
