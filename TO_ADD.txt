@@ -12,7 +12,8 @@ participation.
 
 pdflatex CV_JvG.tex
 
-mogrify -version
-cd theexpatexperience/images
-find . -type f -iregex '.*\.\(jpg\|jpeg\|png\)' -exec mogrify -resize "1920x1920>" -quality 80 -strip {} +
 
+
+check if 
+https://ibb.co/mBL0S5R 
+is used in the powerpoint. 
