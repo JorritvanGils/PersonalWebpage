@@ -1,19 +1,4 @@
-2022 went to barcelona. one year working for box21.
-2023 jul -> south america. 
-2024 jul -> switched box21 to bittensor
-2025 sep -> Madrid.
-2026 ... -> ...
-
-
-Not mentioned here on index.html. Put this in presentation:
-
-https://github.com/JorritvanGils/Remote-GPU-control
-participation. 
-
-pdflatex CV_JvG.tex
-
-
-
-check if 
-https://ibb.co/mBL0S5R 
-is used in the powerpoint. 
+Is this present in the presentation (not mentioned in index.html)?
+- https://github.com/JorritvanGils/Remote-GPU-control
+- github participation. 
+- https://ibb.co/mBL0S5R 
