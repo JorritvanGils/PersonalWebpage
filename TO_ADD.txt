@@ -21,11 +21,8 @@ Sources:
 
 Google
 Meta
-OpenAI
+OpenAI (london)
+DeepMind
 HuggingFace
 Onderzoeksinstituten
 universiteiten
-
-Add hyperparameter tuning. 
-Screenshot thesis code publicly available. 
-Can you find the image of you and ramon for pre-last slide. Didn't you put it on the usb stick (with the idea of creating the video)
