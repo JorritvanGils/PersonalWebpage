@@ -4,13 +4,8 @@ Is this present in the presentation (not mentioned in index.html)?
 - https://ibb.co/mBL0S5R 
 
 
-continue on completing that drive dir /2026.
-
-Can you find the image of you and ramon for pre-last slide. Didn't you put it on the usb stick (with the idea of creating the video)
-
-Put recommendation letter:
-
-Also add the most recent motivation letter and update it.
+Wait for Ramon recommendation letter.
+Check a position and look at the requirements
 
 Sources:
 - slack AI for conservation
@@ -22,6 +17,7 @@ Sources:
  epfl
   - kellenberg
   - devis
+- Lukas Picek
 
 Google
 Meta
@@ -29,3 +25,7 @@ OpenAI
 HuggingFace
 Onderzoeksinstituten
 universiteiten
+
+Add hyperparameter tuning. 
+Screenshot thesis code publicly available. 
+Can you find the image of you and ramon for pre-last slide. Didn't you put it on the usb stick (with the idea of creating the video)
