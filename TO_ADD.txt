@@ -1,28 +1,13 @@
-Is this present in the presentation (not mentioned in index.html)?
-- https://github.com/JorritvanGils/Remote-GPU-control
-- github participation. 
-- https://ibb.co/mBL0S5R 
-
-
-Wait for Ramon recommendation letter.
-Check a position and look at the requirements
-
-Sources:
-- PrimeIntellect
+Other options:
 - LinkedIn
-- List any usefull contacts from phd applications. 
+- PrimeIntellect
 
-Google (Erik)
-Meta
-OpenAI (london)
-DeepMind
-HuggingFace
-Onderzoeksinstituten
-universiteiten
-
-
-
-
+Companies:
+- Google (Erik)
+- Meta
+- OpenAI (london)
+- DeepMind
+- HuggingFace
 
 Open PhD applications:
 Application 1
