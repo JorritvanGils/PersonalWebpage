@@ -18,7 +18,7 @@ Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints
 Tiffany Vlaar
 https://www.exageo.org/phd-student-projects/
 
-Application 2
+Application 2 - COMPLETED
 Location: Wyoming, USA
 Intersection of computer vision and wildlife
 Deadline: 23th januari
@@ -30,6 +30,15 @@ Location: Umeå, Sweden
 PhD position in bioacoustics, statistics, and AI for forest biodiversity
 https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand5/
 
+XXX CV (max 3 pages, Arial or Times New Roman, min size 11) with:
+  Education, Work experience, Research interests, Awards, Publications, Presentations and conferences, Software and computing skills, Languages
+XXX Contact details for at least 2 references
+XXX Motivation letter (max 2 pages, Arial or Times New Roman, min size 11) explaining your qualifications and interest in the PhD project.
+XXX Degree certificates and transcripts from all previous first- and second-cycle studies.
+XXX - References: Contact information for at least two personal references.
+XXX Proof of English proficiency (if applicable, per SLU requirements).
+XXX For interview stage only: Attested copies of certificates, transcripts, and, if not Swedish, passport photo page.
+
 
 # Known contacts:
 - EPFL, Switzerland, Devis Tuia, devis.tuia@epfl.ch, Kellenberg
@@ -37,6 +46,7 @@ https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand5/
   https://wilddrone.eu/supervisors/ <- mail all of them. 
 - Trento, Fabio Remondino remondino@fbk.eu
 - Lukas Picek
+- Malte Pedersen
 
 # Contacts from overview_academic_labs.XLSX
 - Toke Høye, Aarhus University, Denmark, https://sites.google.com/site/hoyelab/, Image-based tools for identifying and monitoring insects and flowers and biotic interactions between them with the use of computer vision and deep learning. A lot of work in the Arctic.
