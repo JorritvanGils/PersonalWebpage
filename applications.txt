@@ -48,35 +48,29 @@ Malte Pedersen
 - Trento, Fabio Remondino remondino@fbk.eu
 - Lukas Picek
 - Sara Beery
+- Gert-Kootstra
+- Helena Russeloo
 
-# Remaining WildDrone contacts:
-- WildDrone, WildDrone@sdu.dk 
-- Anders Lyhne Christensen, andc@mmmi.sdu.dk, University of Southern Denmark (Professor, DC6 – Automated Planning)
-- Andrea Flack, aflack@ab.mpg.de, Max Planck Institute of Animal Behavior / Konstanz (Group Leader, DC2 – Migration Analysis & DC8 – Detailed Census)
-- Andrea Micheli, amicheli@fbk.eu, Bruno Kessler Foundation, Italy (Researcher, DC9 – Individual Characteristics)
-- Benjamin Risse, b.risse@uni-muenster.de, University of Münster, Germany (Professor, DC9 – Individual Characteristics & DC10 – Habitat Reconstruction)
+WildBotics, https://www.wildbotics.eu/, follow on linkedin and keep eye on second round. MAIL THEM AND SAY YOU FEEL REALLY TERRIBLE AND WILL 100% KEEP AN EYE OUT FOR SECOND ROUND.
+
+# WildDrone contacts:
+  - WildDrone, WildDrone@sdu.dk 
+  - Anders Lyhne Christensen, andc@mmmi.sdu.dk, University of Southern Denmark (Professor, DC6 – Automated Planning)
+  - Andrea Flack, aflack@ab.mpg.de, Max Planck Institute of Animal Behavior / Konstanz (Group Leader, DC2 – Migration Analysis & DC8 – Detailed Census)
+  - Andrea Micheli, amicheli@fbk.eu, Bruno Kessler Foundation, Italy (Researcher, DC9 – Individual Characteristics)
+  - Benjamin Risse, b.risse@uni-muenster.de, University of Münster, Germany (Professor, DC9 – Individual Characteristics & DC10 – Habitat Reconstruction)
 - Blair Costelloe, blair.costelloe@ab.mpg.de, Max Planck Institute of Animal Behavior / Konstanz (Postdoctoral Researcher, DC1 – Livestock-wildlife Interaction, DC3 – Predator-prey Response, DC4 – Coastal Monitoring, DC11 – Interactive Census)
-- Henrik Skov Midtiby, hemi@mmmi.sdu.dk, University of Southern Denmark (Associate Professor, DC8 – Real-Time Census)
-- Magnus Wahlberg, Magnus@biology.sdu.dk, University of Southern Denmark (Associate Professor, DC4 – Coastal Monitoring & DC8 – Detailed Census)
-- Majid Mirmehdi, M.Mirmehdi@cs.bris.ac.uk, University of Bristol, UK (Professor, DC12 – Adaptive Tracking)
-- Martin Wikelski, sknopf@ab.mpg.de, Max Planck Institute of Animal Behavior / Konstanz (Professor, DC1 – Livestock-wildlife Interaction)
-- Tilo Burghardt, tilo@cs.bris.ac.uk, University of Bristol, UK (Senior Lecturer, DC12 – Adaptive Tracking)
-- Tom Richardson, Thomas.Richardson@bristol.ac.uk, University of Bristol, UK (Professor, DC12 – Adaptive Tracking & DC13 – Parasitic Drones)
-- Ulrik Pagh Schultz Lundquist, ups@mmmi.sdu.dk, University of Southern Denmark (Professor, DC3 – Predator-prey Response, DC5 – Calm Drones, DC6 – Automated Planning, DC7 – Flexible Deployment)
-
-Subject: PhD Opportunities Inquiry
-
-Dear [First Name],
-
-
-I hope you are doing well. I was a WildDrone applicant in 2022, and since then I have been developing my skills in AI and computer vision, gaining hands-on experience with projects such as BOX21 and Bittensor. See my updated portfolio here: www.jorritvangils.com 
-I am reaching out to ask if there might be any PhD opportunities in your group this year. While I am particularly interested in conservation-related applications, I am also very open to computer vision applied to other disciplines. 
-Thank you very much for your time. I would be glad to have a brief chat or hear any recommendations you might have.
-
-
-Best regards,  
-Jorrit van Gils
-
+  ADD TO LINKEDIN
+  - Henrik Skov Midtiby, hemi@mmmi.sdu.dk, University of Southern Denmark (Associate Professor, DC8 – Real-Time Census)
+  - Magnus Wahlberg, Magnus@biology.sdu.dk, University of Southern Denmark (Associate Professor, DC4 – Coastal Monitoring & DC8 – Detailed Census)
+  - Majid Mirmehdi, M.Mirmehdi@cs.bris.ac.uk, University of Bristol, UK (Professor, DC12 – Adaptive Tracking)
+  - Martin Wikelski, sknopf@ab.mpg.de, Max Planck Institute of Animal Behavior / Konstanz (Professor, DC1 – Livestock-wildlife Interaction)
+  - Tilo Burghardt, tilo@cs.bris.ac.uk, University of Bristol, UK (Senior Lecturer, DC12 – Adaptive Tracking)
+  - Tom Richardson, Thomas.Richardson@bristol.ac.uk, University of Bristol, UK (Professor, DC12 – Adaptive Tracking & DC13 – Parasitic Drones)
+  - Ulrik Pagh Schultz Lundquist, ups@mmmi.sdu.dk, University of Southern Denmark (Professor, DC3 – Predator-prey Response, DC5 – Calm Drones, DC6 – Automated Planning, DC7 – Flexible Deployment)
+- Fabio Poiesi, poiesi@fbk.eu (https://tev.fbk.eu/)
+  ADD TO LINKEDIN
+ 
 # Contacts from overview_academic_labs.XLSX
 - Toke Høye, tth@ecos.au.dk, Aarhus University, Denmark, https://sites.google.com/site/hoyelab/, Image-based tools for identifying and monitoring insects and flowers and biotic interactions between them with the use of computer vision and deep learning. A lot of work in the Arctic.
 - Jan Dirk Wegner, jandirk.wegner@uzh.ch, ETH/U Zurich, https://prs.igp.ethz.ch/ecovision.html, urban forests, remote sensing
