@@ -40,27 +40,28 @@ XXX - References: Contact information for at least two personal references.
 XXX Proof of English proficiency (if applicable, per SLU requirements).
 XXX For interview stage only: Attested copies of certificates, transcripts, and, if not Swedish, passport photo page.
 
+  ADD TO LINKEDIN
 
 # Known contacts:
-EPFL, Switzerland, Devis Tuia, devis.tuia@epfl.ch, 
-London, Kellenberg, b.kellenberger@ucl.ac.uk
-Malte Pedersen
-- Trento, Fabio Remondino remondino@fbk.eu
-- Lukas Picek
-- Sara Beery
-- Gert-Kootstra
-- Helena Russeloo
+- Devis Tuia, devis.tuia@epfl.ch, EPFL, Switzerland, 
+  - Kellenberg, b.kellenberger@ucl.ac.uk, London
+  - Malte Pedersen
+    - Trento, Fabio Remondino remondino@fbk.eu
+    - Lukas Picek
+    - Sara Beery
+    - Gert-Kootstra
+    - Helena Russeloo
+  - Fabio Poiesi, poiesi@fbk.eu (https://tev.fbk.eu/)
 
 WildBotics, https://www.wildbotics.eu/, follow on linkedin and keep eye on second round. MAIL THEM AND SAY YOU FEEL REALLY TERRIBLE AND WILL 100% KEEP AN EYE OUT FOR SECOND ROUND.
 
 # WildDrone contacts:
   - WildDrone, WildDrone@sdu.dk 
-  - Anders Lyhne Christensen, andc@mmmi.sdu.dk, University of Southern Denmark (Professor, DC6 – Automated Planning)
+- Anders Lyhne Christensen, andc@mmmi.sdu.dk, University of Southern Denmark (Professor, DC6 – Automated Planning)
   - Andrea Flack, aflack@ab.mpg.de, Max Planck Institute of Animal Behavior / Konstanz (Group Leader, DC2 – Migration Analysis & DC8 – Detailed Census)
-  - Andrea Micheli, amicheli@fbk.eu, Bruno Kessler Foundation, Italy (Researcher, DC9 – Individual Characteristics)
+- Andrea Micheli, amicheli@fbk.eu, Bruno Kessler Foundation, Italy (Researcher, DC9 – Individual Characteristics)
   - Benjamin Risse, b.risse@uni-muenster.de, University of Münster, Germany (Professor, DC9 – Individual Characteristics & DC10 – Habitat Reconstruction)
 - Blair Costelloe, blair.costelloe@ab.mpg.de, Max Planck Institute of Animal Behavior / Konstanz (Postdoctoral Researcher, DC1 – Livestock-wildlife Interaction, DC3 – Predator-prey Response, DC4 – Coastal Monitoring, DC11 – Interactive Census)
-  ADD TO LINKEDIN
   - Henrik Skov Midtiby, hemi@mmmi.sdu.dk, University of Southern Denmark (Associate Professor, DC8 – Real-Time Census)
   - Magnus Wahlberg, Magnus@biology.sdu.dk, University of Southern Denmark (Associate Professor, DC4 – Coastal Monitoring & DC8 – Detailed Census)
   - Majid Mirmehdi, M.Mirmehdi@cs.bris.ac.uk, University of Bristol, UK (Professor, DC12 – Adaptive Tracking)
@@ -68,8 +69,7 @@ WildBotics, https://www.wildbotics.eu/, follow on linkedin and keep eye on secon
   - Tilo Burghardt, tilo@cs.bris.ac.uk, University of Bristol, UK (Senior Lecturer, DC12 – Adaptive Tracking)
   - Tom Richardson, Thomas.Richardson@bristol.ac.uk, University of Bristol, UK (Professor, DC12 – Adaptive Tracking & DC13 – Parasitic Drones)
   - Ulrik Pagh Schultz Lundquist, ups@mmmi.sdu.dk, University of Southern Denmark (Professor, DC3 – Predator-prey Response, DC5 – Calm Drones, DC6 – Automated Planning, DC7 – Flexible Deployment)
-- Fabio Poiesi, poiesi@fbk.eu (https://tev.fbk.eu/)
-  ADD TO LINKEDIN
+
  
 # Contacts from overview_academic_labs.XLSX
 - Toke Høye, tth@ecos.au.dk, Aarhus University, Denmark, https://sites.google.com/site/hoyelab/, Image-based tools for identifying and monitoring insects and flowers and biotic interactions between them with the use of computer vision and deep learning. A lot of work in the Arctic.
@@ -102,22 +102,20 @@ Jorrit van Gils
 [www.jorritvangils.com](http://www.jorritvangils.com)
 
 
-start en eind twijfelachtig. Veel uuh. Goed voorbereiden. 
-pop up remove or at least not move. 
-jeugdorganisatie start and enddate. 
-plaatje loss iets groter. 
-herten Thesis, plaatje verlichten
-publicatie thesis github voor mensen lastig te lezen. 
-pijltje groter
-Went to America. 
-aan begin: stel dat de verbinding uitvalt, roep maar of steek je hand op. 
-aan het begin aangeven dat de wifi verbinding onstabiel kan zijn, 
-Bittensor eerste slide, rechts onder iets groter
-loss afbeelding trainin gdistributed training groter + helderder. 
-eerst alleen wereldbol en daarna theory afbeelding.
-contributions zou je kunnen verdelen in twee of met animatie (/2) 
-diagram remote gpu flow -> zwarte letters. 
-remote gpu control , onderste afbeelding niet leesbaar
-Goed oefenen wat er staat. 
-AMbitions koppelen aan naar wat de baan vraagt.
+Linkedin message for remote job. 
 
+Extra notes:
+- before meeting:
+  - increase cursor size (settings-> accessibility). 
+  - drag pop up to side to see audience
+  - "Wifi can be unstable but if it happens I should be back in a minute. Also, if you can't hear me, please raise your hand or say somthing."
+- YouthBoard begin and end year. 
+- Practice the start
+  - Write out. 
+- Ambitions:
+ -write out 3 looking and 3 bring. 
+ -practice this job
+ -link to the job
+
+Papers:
+file:///home/jorrit/Downloads/frobt-12-1695319.pdf
