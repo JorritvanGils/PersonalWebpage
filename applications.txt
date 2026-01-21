@@ -45,7 +45,7 @@ XXX For interview stage only: Attested copies of certificates, transcripts, and,
 # Known contacts:
 - Devis Tuia, devis.tuia@epfl.ch, EPFL, Switzerland, 
   - Kellenberg, b.kellenberger@ucl.ac.uk, London
-  - Malte Pedersen
+  - Malte Pedersen -> https://www.vacancies.aau.dk/phd-positions 
     - Trento, Fabio Remondino remondino@fbk.eu
     - Lukas Picek
     - Sara Beery
@@ -72,34 +72,24 @@ WildBotics, https://www.wildbotics.eu/, follow on linkedin and keep eye on secon
 
  
 # Contacts from overview_academic_labs.XLSX
-- Toke Høye, tth@ecos.au.dk, Aarhus University, Denmark, https://sites.google.com/site/hoyelab/, Image-based tools for identifying and monitoring insects and flowers and biotic interactions between them with the use of computer vision and deep learning. A lot of work in the Arctic.
-- Jan Dirk Wegner, jandirk.wegner@uzh.ch, ETH/U Zurich, https://prs.igp.ethz.ch/ecovision.html, urban forests, remote sensing
-- Karen Joyce, karen.joyce@jcu.edu.au, James Cook University,  https://research.jcu.edu.au/portfolio/karen.joyce/, Remote sensing, aerial (UAV) monitoring, counting sea cucumbers & other indicators of oceanic/coastal  environments for temporal ecosystem surveys
-- Michael Black, black@tuebingen.mpg.de, MPI/Tubingen, Animal modeling in 3D, pose, https://ps.is.mpg.de/~black
-- Andrew Zisserman, andrew.zisserman@eng.ox.ac.uk, Oxford, multimodal behavior categorization, re-identification, https://www.robots.ox.ac.uk/~vgg/index.html
-- Serge Belongie, s.belongie@di.ku.dk, U Copenhagen, Fine-grained categorization, AR/VR, https://twitter.com/belongielab
-- Enrico Di Minin, enrico.di.minin@helsinki.fi, U Helsinki, Machine Learning to analyse wildlife trade, people-nature interactions and other conservation issues, https://www2.helsinki.fi/en/researchgroups/helsinki-lab-of-interdisciplinary-conservation-science/research
-- Joachim Denzler, joachim.denzler@uni-jena.de, U Jena Germany, Species identification and individual re-identification in images, https://www.inf-cv.uni-jena.de/denzler#cv-ml
-- Benno Simmons, B.Simmons2@exeter.ac.uk, University of Exeter England, https://www.bennosimmons.com/ Computer vision for camera traps, ecological networks, remote sensing (e.g. forecasting deforestation from satellite imagery), movement ecology, bioacoustic monitoring, general large data ecology/conservation things 
-- emmanuel dufourq, Machine learning research for conservation ecology http://emmanueldufourq.com/wp/, University of Northern Iowa
-  Use: https://chas.uni.edu/directory/emmanuel-dufourq#emailDirectory 
-- Frank Schindler, f.schindler@imperial.ac.uk, University of Bonn, schindl@cs.uni-bonn.de 
-- Dan Stowell, D.Stowell@tilburguniversity.edu, Associate Professor of AI & Biodiversity http://www.mcld.co.uk/research/, https://www.tilburguniversity.edu/staff/d-stowell 
+  - Toke Høye, tth@ecos.au.dk, Aarhus University, Denmark, https://sites.google.com/site/hoyelab/, Image-based tools for identifying and monitoring insects and flowers and biotic interactions between them with the use of computer vision and deep learning. A lot of work in the Arctic.
+  - Jan Dirk Wegner, jandirk.wegner@uzh.ch, ETH/U Zurich, https://prs.igp.ethz.ch/ecovision.html, urban forests, remote sensing
+    Just keep track of job postings on the UZH Job portal and our EcoVision Lab website
+    -https://www.uzh.ch/en/explore/work/jobs.html
+    - EcoVision dm3l lab page (seems not to work) they mention have a grant. 
+  - Karen Joyce, karen.joyce@jcu.edu.au, James Cook University,  https://research.jcu.edu.au/portfolio/karen.joyce/, Remote sensing, aerial (UAV) monitoring, counting sea cucumbers & other indicators of oceanic/coastal  environments for temporal ecosystem surveys
+  - Michael Black, black@tuebingen.mpg.de, MPI/Tubingen, Animal modeling in 3D, pose, https://ps.is.mpg.de/~black
+  - Andrew Zisserman, andrew.zisserman@eng.ox.ac.uk, Oxford, multimodal behavior categorization, re-identification, https://www.robots.ox.ac.uk/~vgg/index.html
+  - Serge Belongie, s.belongie@di.ku.dk, U Copenhagen, Fine-grained categorization, AR/VR, https://twitter.com/belongielab
+  - Enrico Di Minin, enrico.di.minin@helsinki.fi, U Helsinki, Machine Learning to analyse wildlife trade, people-nature interactions and other conservation issues, https://www2.helsinki.fi/en/researchgroups/helsinki-lab-of-interdisciplinary-conservation-science/research
+  - Joachim Denzler, joachim.denzler@uni-jena.de, U Jena Germany, Species identification and individual re-identification in images, https://www.inf-cv.uni-jena.de/denzler#cv-ml
+  - Benno Simmons, B.Simmons2@exeter.ac.uk, University of Exeter England, https://www.bennosimmons.com/ Computer vision for camera traps, ecological networks, remote sensing (e.g. forecasting deforestation from satellite imagery), movement ecology, bioacoustic monitoring, general large data ecology/conservation things 
+  - emmanuel dufourq, Machine learning research for conservation ecology http://emmanueldufourq.com/wp/, University of Northern Iowa, https://chas.uni.edu/directory/emmanuel-dufourq#emailDirectory 
+  - Frank Schindler, f.schindler@imperial.ac.uk, University of Bonn, schindl@cs.uni-bonn.de 
+  - Dan Stowell, D.Stowell@tilburguniversity.edu, Associate Professor of AI & Biodiversity http://www.mcld.co.uk/research/, https://www.tilburguniversity.edu/staff/d-stowell 
 
 
-Dear [Name],
 
-We were briefly in touch some time ago / I recently came across your work on [specific topic or paper], which I found very interesting.
-
-I’m a machine learning engineer with a background in computer vision and distributed LLM training. My earlier work focused on wildlife behavior recognition using YOLOv5 and pose estimation, and more recently I’ve been working on large-scale, multi-GPU training and system optimization in decentralized settings.
-
-I wanted to reach out to share that I’m actively continuing in ML/CV research and exploring [PhD opportunities / research collaborations / applied research roles]. If you see any potential fit, or have suggestions, I’d be very happy to hear your thoughts.
-
-Thank you for your time, and best wishes with your research.
-
-Kind regards,
-Jorrit van Gils
-[www.jorritvangils.com](http://www.jorritvangils.com)
 
 
 Linkedin message for remote job. 
@@ -118,4 +108,21 @@ Extra notes:
  -link to the job
 
 Papers:
-file:///home/jorrit/Downloads/frobt-12-1695319.pdf
+
+
+
+Wyoming application:
+- read again on wildlife papers.
+- papers from Ben Koger
+- file:///home/jorrit/Downloads/frobt-12-1695319.pdf
+
+https://migrationinitiative.org/ (some more cool videos)
+
+- can you show collaboration with farm technology. 
+
+Although experience with language models, sounds completely different to computer vision. 
+Key reason why two years of working on LLMs are incredibly valueable, is that many fields, including computer vision, are transitioning 
+from traditional convolutional neural networks to transformer-based architectures, which have already been wieldly using in NLP.
+My strong NLP background and undertanding of transformers, positions me to quickly adapt to and leverage these advances in computer vision.
+
+
