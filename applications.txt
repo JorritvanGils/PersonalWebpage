@@ -54,9 +54,6 @@ XXX For interview stage only: Attested copies of certificates, transcripts, and,
 - Fabio Poiesi, poiesi@fbk.eu (https://tev.fbk.eu/)
 
 
-
-WildBotics, https://www.wildbotics.eu/, follow on linkedin and keep eye on second round. MAIL THEM AND SAY YOU FEEL REALLY TERRIBLE AND WILL 100% KEEP AN EYE OUT FOR SECOND ROUND.
-
 # WildDrone contacts:
   - WildDrone, WildDrone@sdu.dk 
 - Anders Lyhne Christensen, andc@mmmi.sdu.dk, University of Southern Denmark (Professor, DC6 – Automated Planning)
@@ -94,7 +91,9 @@ WildBotics, https://www.wildbotics.eu/, follow on linkedin and keep eye on secon
 
 
 
-Linkedin message for remote job. 
+Linkedin message for remote job:
+
+
 
 Extra notes:
 - before meeting:
@@ -112,24 +111,34 @@ Extra notes:
 Papers:
 
 
+https://www.findaphd.com/phds/project/ai-integrated-network-ecosystem-models-for-predicting-biodiversity-change/?p192305
 
 
 
-Wyoming application:
-- read again on wildlife papers.
-- papers from Ben Koger
-- file:///home/jorrit/Downloads/frobt-12-1695319.pdf
+########### Opportunities ############
+# WildBotics, https://www.wildbotics.eu/, follow on linkedin and keep eye on second round. 
 
-https://migrationinitiative.org/ (some more cool videos)
+# PhD Sweden Umeå
 
-- can you show collaboration with farm technology. 
-
-Although experience with language models, sounds completely different to computer vision. 
-Key reason why two years of working on LLMs are incredibly valueable, is that many fields, including computer vision, are transitioning 
-from traditional convolutional neural networks to transformer-based architectures, which have already been wieldly using in NLP.
-My strong NLP background and undertanding of transformers, positions me to quickly adapt to and leverage these advances in computer vision.
+# PhD Ben Koger Wyoming
+- read wildlife papers:
+  - file:///home/jorrit/Downloads/frobt-12-1695319.pdf # WildDrone
+  - https://scholar.google.com/citations?user=auNWHhUAAAAJ&hl=en # his Scholar profile
+- https://migrationinitiative.org/ (some more cool videos)
 
 
-
-Benjamin Risse 17 feb:
+# 17 feb - Zoom with Benjamin Risse :
 https://isprs-archives.copernicus.org/articles/XLVIII-2-2024/379/2024/isprs-archives-XLVIII-2-2024-379-2024.pdf
+
+
+I’m excited to share that I am looking for freelance opportunities in AI and computer vision.
+
+I hold a Master’s degree with specialization in Artificial Intelligence and have 5 years of experience building machine learning solutions. 
+My career began with automated wildlife behavior classification, using YOLOv5 and pose estimation, 
+and has since expanded to object detection platform BOX21 and competitions such as Fathomnet, where I developed underwater image classifiers. 
+Since 2024, I’ve been contributing to Bittensor, working globally on distributed training of large language models.
+
+My main focus is on deep learning, computer vision, NLP, and LLMs. 
+I can build and deploy models using any cloud provider, and if needed, I can also develop front-end interfaces with React.
+
+More details are on my webpage: www.jorritvangils.com
