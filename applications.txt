@@ -51,7 +51,9 @@ XXX For interview stage only: Attested copies of certificates, transcripts, and,
     - Sara Beery
     - Gert-Kootstra
     - Helena Russeloo
-  - Fabio Poiesi, poiesi@fbk.eu (https://tev.fbk.eu/)
+- Fabio Poiesi, poiesi@fbk.eu (https://tev.fbk.eu/)
+
+
 
 WildBotics, https://www.wildbotics.eu/, follow on linkedin and keep eye on second round. MAIL THEM AND SAY YOU FEEL REALLY TERRIBLE AND WILL 100% KEEP AN EYE OUT FOR SECOND ROUND.
 
@@ -60,7 +62,7 @@ WildBotics, https://www.wildbotics.eu/, follow on linkedin and keep eye on secon
 - Anders Lyhne Christensen, andc@mmmi.sdu.dk, University of Southern Denmark (Professor, DC6 – Automated Planning)
   - Andrea Flack, aflack@ab.mpg.de, Max Planck Institute of Animal Behavior / Konstanz (Group Leader, DC2 – Migration Analysis & DC8 – Detailed Census)
 - Andrea Micheli, amicheli@fbk.eu, Bruno Kessler Foundation, Italy (Researcher, DC9 – Individual Characteristics)
-  - Benjamin Risse, b.risse@uni-muenster.de, University of Münster, Germany (Professor, DC9 – Individual Characteristics & DC10 – Habitat Reconstruction)
+- Benjamin Risse, b.risse@uni-muenster.de, University of Münster, Germany (Professor, DC9 – Individual Characteristics & DC10 – Habitat Reconstruction)
 - Blair Costelloe, blair.costelloe@ab.mpg.de, Max Planck Institute of Animal Behavior / Konstanz (Postdoctoral Researcher, DC1 – Livestock-wildlife Interaction, DC3 – Predator-prey Response, DC4 – Coastal Monitoring, DC11 – Interactive Census)
   - Henrik Skov Midtiby, hemi@mmmi.sdu.dk, University of Southern Denmark (Associate Professor, DC8 – Real-Time Census)
   - Magnus Wahlberg, Magnus@biology.sdu.dk, University of Southern Denmark (Associate Professor, DC4 – Coastal Monitoring & DC8 – Detailed Census)
@@ -75,7 +77,7 @@ WildBotics, https://www.wildbotics.eu/, follow on linkedin and keep eye on secon
   - Toke Høye, tth@ecos.au.dk, Aarhus University, Denmark, https://sites.google.com/site/hoyelab/, Image-based tools for identifying and monitoring insects and flowers and biotic interactions between them with the use of computer vision and deep learning. A lot of work in the Arctic.
   - Jan Dirk Wegner, jandirk.wegner@uzh.ch, ETH/U Zurich, https://prs.igp.ethz.ch/ecovision.html, urban forests, remote sensing
     Just keep track of job postings on the UZH Job portal and our EcoVision Lab website
-    -https://www.uzh.ch/en/explore/work/jobs.html
+    - https://www.uzh.ch/en/explore/work/jobs.html
     - EcoVision dm3l lab page (seems not to work) they mention have a grant. 
   - Karen Joyce, karen.joyce@jcu.edu.au, James Cook University,  https://research.jcu.edu.au/portfolio/karen.joyce/, Remote sensing, aerial (UAV) monitoring, counting sea cucumbers & other indicators of oceanic/coastal  environments for temporal ecosystem surveys
   - Michael Black, black@tuebingen.mpg.de, MPI/Tubingen, Animal modeling in 3D, pose, https://ps.is.mpg.de/~black
@@ -126,3 +128,6 @@ from traditional convolutional neural networks to transformer-based architecture
 My strong NLP background and undertanding of transformers, positions me to quickly adapt to and leverage these advances in computer vision.
 
 
+
+Benjamin Risse 17 feb:
+https://isprs-archives.copernicus.org/articles/XLVIII-2-2024/379/2024/isprs-archives-XLVIII-2-2024-379-2024.pdf
