@@ -105,14 +105,41 @@
 									Even though the PhD will be a huge challenge, life will be much more structured. Adult life is about to begin. I absolutely didn't expect this anymore. I couldn't have wished for a better ending to the blogs. So now I'm going to bid you farewell for good. But not before I take you on a journey through time with the video footage, through the six countries I had the privilege of visiting from 2022 to 2025: Spain, Peru, Bolivia, Paraguay, Mexico, and the USA. Enjoy, and thank you so much for visiting ExpatExperience!
 								<p>
 
-								<iframe 
-									src="https://player.vimeo.com/video/1171181719" 
-									width="640" 
-									height="360" 
-									frameborder="0" 
-									allow="autoplay; fullscreen; picture-in-picture" 
-									allowfullscreen>
-								</iframe>									
+								<div class="video-container">
+									<iframe 
+										src="https://player.vimeo.com/video/1171181719"
+										frameborder="0" 
+										allow="autoplay; fullscreen; picture-in-picture" 
+										allowfullscreen>
+									</iframe>
+								</div>
+
+								<style>
+									.video-container {
+										position: relative;
+										width: 100%;
+										/* This creates a 16:9 aspect ratio */
+										aspect-ratio: 16 / 9; 
+										margin-bottom: 2rem;
+									}
+
+									.video-container iframe {
+										position: absolute;
+										top: 0;
+										left: 0;
+										width: 100%;
+										height: 100%;
+										border: none;
+									}
+
+									/* Keeps your specific 500px preference for large screens if 16:9 is too tall */
+									@media screen and (min-width: 981px) {
+										.video-container {
+											height: 500px;
+											aspect-ratio: auto;
+										}
+									}
+								</style>								
 								
 							</section>
 					</div>
