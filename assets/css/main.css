@@ -2673,6 +2673,8 @@ input, select, textarea {
 			.features article .image img {
 				display: block;
 				width: 100%;
+				border-radius: 6px;
+				box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 			}
 
 		.features article .inner {
