@@ -3327,5 +3327,6 @@ input, select, textarea {
 .img-styled {
 	border-radius: 6px;
 	box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+	border: 1px solid #1a1a1a;
 	display: block;
 }
