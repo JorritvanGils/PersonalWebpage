@@ -3,3 +3,8 @@ _site
 .jekyll-metadata
 
 .DS_Store
+
+# LaTeX build artifacts
+cv/*.aux
+cv/*.log
+cv/*.out
